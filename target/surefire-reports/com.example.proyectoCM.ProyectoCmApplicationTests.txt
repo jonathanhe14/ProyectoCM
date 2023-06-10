@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.proyectoCM.ProyectoCmApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.251 s - in com.example.proyectoCM.ProyectoCmApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.042 s - in com.example.proyectoCM.ProyectoCmApplicationTests
