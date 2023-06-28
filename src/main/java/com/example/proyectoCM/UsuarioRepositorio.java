@@ -1,2 +1,9 @@
-package com.example.proyectoCM;public interface UsuarioRepositorio {
+package com.example.proyectoCM;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface UsuarioRepositorio extends CrudRepository<Usuario,String> {
+
+
+
 }
