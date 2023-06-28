@@ -1,2 +1,4 @@
 com\example\proyectoCM\ProyectoCmApplication.class
 com\example\proyectoCM\ServletInitializer.class
+com\example\proyectoCM\UsuarioRepositorio.class
+com\example\proyectoCM\Usuario.class
